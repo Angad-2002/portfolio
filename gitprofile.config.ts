@@ -52,31 +52,29 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Angad Singh',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
+    linkedin: 'angad2002',
+    x: '09Angadsingh',
     facebook: '',
-    instagram: '',
-    reddit: '',
+    instagram: 'angadsingh_2002',
+    reddit: 'Either_Magician7377',
     threads: '',
     youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
+    medium: 'angadsingh.11.09.2002',
     dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    stackoverflow: '28944835/angad-singh', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    phone: '+91 9110174153',
+    email: 'angadsinghriar.11092002@gmail.com',
   },
   resume: {
     fileUrl:
