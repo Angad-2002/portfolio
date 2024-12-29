@@ -76,6 +76,37 @@ const CONFIG = {
     phone: '+91 9110174153',
     email: 'angadsinghriar.11092002@gmail.com',
   },
+  codingProfiles: {
+    display: true, // Set to false to hide the section
+    header: 'Coding Profiles',
+    profiles: [
+      {
+        platform: 'LeetCode',
+        username: 'angad_leetcode',
+        link: 'https://leetcode.com/angad_leetcode/',
+      },
+      {
+        platform: 'Codeforces',
+        username: 'angad_codeforces',
+        link: 'https://codeforces.com/profile/angad_codeforces',
+      },
+      {
+        platform: 'CodeChef',
+        username: 'angad_codechef',
+        link: 'https://www.codechef.com/users/angad_codechef',
+      },
+      {
+        platform: 'HackerRank',
+        username: 'angad_hackerrank',
+        link: 'https://www.hackerrank.com/angad_hackerrank',
+      },
+      {
+        platform: 'HackerEarth',
+        username: 'angad_hackerearth',
+        link: 'https://www.hackerearth.com/@angad_hackerearth',
+      },
+    ],
+  },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
