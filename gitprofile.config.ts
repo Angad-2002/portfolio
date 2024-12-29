@@ -109,18 +109,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'SmartInternz',
+      position: 'AI/ML Intern',
+      from: 'Aug 2023',
+      to: 'Nov 2023',
+      companyLink: 'https://smartinternz.com/',
     },
   ],
   certifications: [
@@ -137,19 +130,18 @@ const CONFIG = {
       degree: 'B.Tech. - Computer Science with spec. in Cyber Physical Systems',
       from: '2021',
       to: '2025',
-      cgpa: '8.79',
     },
     {
       institution: 'Hill Top School, Jamshedpur',
       degree: 'XII',
-      from: '2021',
-      to: '2019',
+      from: '2019',
+      to: '2021',
     },
     {
       institution: 'Hill Top School, Jamshedpur',
       degree: 'X',
-      from: '2019',
-      to: '2017',
+      from: '2017',
+      to: '2019',
     },
   ],
   publications: [
