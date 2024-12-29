@@ -69,43 +69,15 @@ const CONFIG = {
     behance: '',
     medium: 'angadsingh.11.09.2002',
     dev: '',
-    stackoverflow: '28944835/angad-singh', // example: '1/jeff-atwood'
+    StackOverflow: '28944835/angad-singh', // example: '1/jeff-atwood'
+    leetcode: 'https://leetcode.com/u/Angad_2002/', 
+    codechef: 'https://www.codechef.com/users/angad_11092002',
+    codeforces: 'https://codeforces.com/profile/angad_2002',
     skype: '',
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '+91 9110174153',
     email: 'angadsinghriar.11092002@gmail.com',
-  },
-  codingProfiles: {
-    display: true, // Set to false to hide the section
-    header: 'Coding Profiles',
-    profiles: [
-      {
-        platform: 'LeetCode',
-        username: 'angad_leetcode',
-        link: 'https://leetcode.com/angad_leetcode/',
-      },
-      {
-        platform: 'Codeforces',
-        username: 'angad_codeforces',
-        link: 'https://codeforces.com/profile/angad_codeforces',
-      },
-      {
-        platform: 'CodeChef',
-        username: 'angad_codechef',
-        link: 'https://www.codechef.com/users/angad_codechef',
-      },
-      {
-        platform: 'HackerRank',
-        username: 'angad_hackerrank',
-        link: 'https://www.hackerrank.com/angad_hackerrank',
-      },
-      {
-        platform: 'HackerEarth',
-        username: 'angad_hackerearth',
-        link: 'https://www.hackerearth.com/@angad_hackerearth',
-      },
-    ],
   },
   resume: {
     fileUrl:
